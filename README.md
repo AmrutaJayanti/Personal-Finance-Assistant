@@ -84,9 +84,6 @@ personal-finance-assistant/
 git clone https://github.com/AmrutaJayanti/Personal-Finance-Assistant.git
 ```
 
-
-### 🖥️ Option 1: Run Locally (No Docker)
-
 #### 💻 Frontend
 
 ```bash
@@ -94,6 +91,11 @@ cd frontend
 npm install
 npm run dev
 ```
+
+
+### 🖥️ Option 1: Run Locally (No Docker)
+
+
 
 #### 🔧 Backend
 
