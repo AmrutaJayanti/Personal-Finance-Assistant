@@ -1,0 +1,14 @@
+*.sqlite3
+*.db
+
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+finance-tracker-env/
+.env
+
+*.log
+*.pot
+*.pyc
+*.pyd
