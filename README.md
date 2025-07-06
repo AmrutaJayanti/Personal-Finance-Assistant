@@ -73,7 +73,7 @@ personal-finance-assistant/
 
 ## 📽️ Working Demo
 
-[Video](./assets/original.mp4)
+[Video](https://www.youtube.com/watch?v=meygr53kEm8)
 
 
 ## 🧪 Running the Project
@@ -123,6 +123,7 @@ docker run -d -p 8000:8000 --env-file .env finance-backend
 
 
 🔗 Frontend: [http://localhost:5173](http://localhost:5173)
+
 🔗 Backend: [http://localhost:8000](http://localhost:8000)
 
 
