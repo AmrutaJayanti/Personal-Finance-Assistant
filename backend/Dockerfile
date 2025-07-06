@@ -2,9 +2,6 @@ FROM python:3.12-slim
 
 WORKDIR /app
 
-#Copy .env file
-COPY .env .
-
 #Tessaract OCR
 RUN apt-get update && apt-get install -y \
     tesseract-ocr \
